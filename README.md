@@ -1,3 +1,3 @@
-This is the readme in the master branch.
+This is the readme in the v1.0-patches branch.
 
-And this is the v1.0 edit.
+This branch points to the same commit as the v1.0.1 tag.

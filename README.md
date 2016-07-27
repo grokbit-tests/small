@@ -1,3 +1,3 @@
 This is the readme in the master branch.
 
-This commit pushes master past v1.0
+Push master a second commit beyond v1.0

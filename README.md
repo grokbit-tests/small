@@ -1,3 +1,3 @@
 This is the readme in the master branch.
 
-Here is another edit.
+And this is the v1.0 edit.
